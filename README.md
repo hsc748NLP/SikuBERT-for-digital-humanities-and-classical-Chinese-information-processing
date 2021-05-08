@@ -10,8 +10,6 @@
     <br>
 </p>
 <p align="center">
-<a href="https://github.com/SIKU-BERT/SikuBERT/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/SIKU-BERT/SikuBERT"></a>
-<a href="https://github.com/SIKU-BERT/SikuBERT/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/SIKU-BERT/SikuBERT"></a>
 <a href="https://github.com/SIKU-BERT/SikuBERT/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/SIKU-BERT/SikuBERT"></a>
 </p>
 
