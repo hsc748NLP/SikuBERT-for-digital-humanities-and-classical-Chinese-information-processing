@@ -36,13 +36,22 @@
 ### Huggingface Transformers
 基于[Huggingface Transformers](https://github.com/huggingface/transformers)的`from_pretrained`方法可以直接在线获取SikuBERT和SikuRoBERTa模型。
 
-
+- SikuBERT
 ```python
 from transformers import AutoTokenizer, AutoModel
 
 tokenizer = AutoTokenizer.from_pretrained("SIKU-BERT/sikubert")
 
 model = AutoModel.from_pretrained("SIKU-BERT/sikubert")
+```
+
+- SikuRoBERTa
+```python
+from transformers import AutoTokenizer, AutoModel
+
+tokenizer = AutoTokenizer.from_pretrained("SIKU-BERT/sikuroberta")
+
+model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
 ```
 
 ## 下载模型 Download PTM
