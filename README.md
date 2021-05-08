@@ -42,7 +42,7 @@ from transformers import AutoTokenizer, AutoModel
 
 tokenizer = AutoTokenizer.from_pretrained("SIKU-BERT/sikubert")
 
-model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
+model = AutoModel.from_pretrained("SIKU-BERT/sikubert")
 ```
 
 ## 下载模型 Download PTM
