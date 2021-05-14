@@ -28,7 +28,7 @@
 
 ## 新闻 News
 
-- 2020/5/8 模型加入[Huggingface Transformers](https://github.com/huggingface/transformers)预训练模型“全家桶”。
+- 2021/5/8 模型加入[Huggingface Transformers](https://github.com/huggingface/transformers)预训练模型“全家桶”。
 
 - 2021/5/6  论文被第五届全国未来智慧图书馆发展论坛会议录用 【论文 [pdf](./appendix/面向数字人文的《四库全书》预训练模型构建及应用研究.pdf)】
 
@@ -115,9 +115,6 @@ model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
 ## 引用方法 Citing
 - 如果我们的内容有助您研究工作，欢迎在论文中引用。
 
-```tex
-[1] 王东波,刘畅,朱子赫等.面向数字人文的《四库全书》预训练模型构建及应用研究[C]//第五届全国未来智慧图书馆发展论坛会议,武汉,2021.
-```
 
 ## 免责声明 Disclaim
 - 报告中所呈现的实验结果仅表明在特定数据集和超参组合下的表现，并不能代表各个模型的本质。实验结果可能因随机数种子，计算设备而发生改变。**使用者可以在许可证范围内任意使用该模型，但我们不对因使用该项目内容造成的直接或间接损失负责。**
