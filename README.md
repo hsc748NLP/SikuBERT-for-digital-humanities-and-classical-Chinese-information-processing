@@ -30,7 +30,8 @@
 
 - 2021/5/8 模型加入[Huggingface Transformers](https://github.com/huggingface/transformers)预训练模型“全家桶”。
 
-- 2021/5/6  论文被第五届全国未来智慧图书馆发展论坛会议录用 【论文 [pdf](./appendix/面向数字人文的《四库全书》预训练模型构建及应用研究.pdf)】
+- 2021/5/6  论文被第五届全国未来智慧图书馆发展论坛会议录用 
+- 2021/8/20 论文于《图书馆论坛》[网络首发](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=TSGL20210819003&v=hVxys9Ams5mx5uSYJEe%25mmd2BJZlUL9o0ByINTgCnWgJNacKD1c4igVV%25mmd2B%25mmd2F8yn71Wrz56s)
 
 ## 使用方法 How to use
 ### Huggingface Transformers
@@ -112,8 +113,9 @@ model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
 |               |                        | avg/prf | 88.48%    | 89.30% | **88.88%**|
 
 
-## 引用方法 Citing
+## 引用 Citing
 - 如果我们的内容有助您研究工作，欢迎在论文中引用。
+- GB/T 7714-2015格式：[1]王东波,刘畅,朱子赫,刘江峰,胡昊天,沈思,李斌.SikuBERT与SikuRoBERTa：面向数字人文的《四库全书》预训练模型构建及应用研究[J/OL].图书馆论坛:1-14[2021-08-21].http://kns.cnki.net/kcms/detail/44.1306.G2.20210819.2052.008.html.
 
 
 ## 免责声明 Disclaim
