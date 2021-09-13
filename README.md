@@ -32,6 +32,7 @@
 
 - 2021/5/6  论文被第五届全国未来智慧图书馆发展论坛会议录用 
 - 2021/8/20 论文于《图书馆论坛》[网络首发](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=TSGL20210819003&v=hVxys9Ams5mx5uSYJEe%25mmd2BJZlUL9o0ByINTgCnWgJNacKD1c4igVV%25mmd2B%25mmd2F8yn71Wrz56s)
+- 2021/9/13 更新sikuBERT和sikuRoberta,新发布的模型已具有包含《四库全书》原生词的新词表，新词表相比原先的bert-base的词表多了8000余字，在各项任务上的表现均超越前者。
 
 ## 使用方法 How to use
 ### Huggingface Transformers
@@ -59,7 +60,7 @@ model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
 - 我们提供的模型是`PyTorch`版本。
 
 ### 调用 From Huggingface
-- 通过Huggingface官网直接下载：
+- 通过Huggingface官网直接下载，目前官网的模型已同步更新至最新版本:
 
     - **SikuBERT: https://huggingface.co/SIKU-BERT/sikubert**
 
@@ -67,11 +68,19 @@ model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
 
 ### 云盘 From BaiduYun
 
-
+旧版下载地址:
 | 模型名称 | 网盘链接 |
 | :-----  | :------ |
 | sikubert | [链接](https://pan.baidu.com/s/1kGVzjyfDLcx4i52Vtzp_wA) 提取码: jn94 |
 | sikuroberta | [链接](https://pan.baidu.com/s/1T8lQ0w6tkGDBO_F_DyrTVw) 提取码: ihgq |
+
+拥有新词表的sikubert和sikuroberta下载方式已更新:
+| 模型名称 | 网盘链接 |
+| :-----  | :------ |
+| sikubert_vocabtxt(推荐下载) | [链接](https://pan.baidu.com/s/1uuYgJMsST08usCl3902Gpw) 提取码: v68d |
+| sikuroberta_vocabtxt(推荐下载) | [链接](https://pan.baidu.com/s/18Cbi8vA9nfOD0NA3qTOsdA) 提取码: 93cr |
+
+
 
 
 ## 验证与结果 Evaluation & Results
