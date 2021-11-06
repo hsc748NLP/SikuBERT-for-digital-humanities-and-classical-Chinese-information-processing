@@ -29,11 +29,19 @@
 ## 新闻 News
 
 - 2021/5/8 模型加入[Huggingface Transformers](https://github.com/huggingface/transformers)预训练模型“全家桶”。
-
 - 2021/5/6  论文被第五届全国未来智慧图书馆发展论坛会议录用 
 - 2021/8/20 论文于《图书馆论坛》[网络首发](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=TSGL20210819003&v=hVxys9Ams5mx5uSYJEe%25mmd2BJZlUL9o0ByINTgCnWgJNacKD1c4igVV%25mmd2B%25mmd2F8yn71Wrz56s)
 - 2021/9/13 更新sikuBERT和sikuRoberta,新发布的模型已具有包含《四库全书》原生词的新词表，新词表相比原先的bert-base的词表多了8000余字，在各项任务上的表现均超越前者。
 - 2021/9/15 相关的python工具包sikufenci正式发布,可用于繁体古籍的自动分词，链接见https://github.com/SIKU-BERT/sikufenci
+- 2021/11/6 本项目相关的单机版开源软件sikuaip正式发布，提供包括分词，断句，实体识别，文本分类等多种古文处理功能，可直接下载解压使用。链接见下文。
+
+## 面向数字人文的古籍智能处理平台sikuaip1.0版本已正式发布
+下载链接:https://pan.baidu.com/s/1--S-qyUedIvhBKwapQjPsA
+提取码：m36d
+平台的使用方法见“使用方法”文件夹，目前版本支持分词，断句，实体识别，文本分类，词性标注和自动标点六种功能，提供单文本处理和语料库处理两种文本处理模式，欢迎下载使用！
+
+
+
 
 ## 使用方法 How to use
 ### Huggingface Transformers
