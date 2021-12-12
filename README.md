@@ -34,6 +34,7 @@
 - 2021/9/13 更新sikuBERT和sikuRoberta,新发布的模型已具有包含《四库全书》原生词的新词表，新词表相比原先的bert-base的词表多了8000余字，在各项任务上的表现均超越前者。
 - 2021/9/15 相关的python工具包sikufenci正式发布,可用于繁体古籍的自动分词，链接见https://github.com/SIKU-BERT/sikufenci
 - 2021/11/6 本项目相关的单机版开源软件sikuaip正式发布，提供包括分词，断句，实体识别，文本分类等多种古文处理功能，可直接下载解压使用。链接见下文。
+- 2021/12/10 基于本模型的第一个古汉语领域NLP工具评估比赛——**EvaHan 2022**发布，比赛详情见：https://circse.github.io/LT4HALA/2022/EvaHan
 
 ## 面向数字人文的古籍智能处理平台sikuaip1.0版本已正式发布
 下载链接:https://pan.baidu.com/s/1--S-qyUedIvhBKwapQjPsA
