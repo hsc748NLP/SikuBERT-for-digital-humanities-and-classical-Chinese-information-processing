@@ -232,15 +232,15 @@ Old version download address:
 
 | Model       | Link      |
 | :---------- | :-------- |
-| sikubert    | uploading |
-| sikuroberta | uploading |
+| sikubert    | https://drive.google.com/drive/folders/1blElNRhouuaU-ZGA99ahud1QL7Y-7PEZ?usp=sharing |
+| sikuroberta | https://drive.google.com/drive/folders/13ToN58XfsfHIIj7pjLWNgLvWAqHsb0_a?usp=sharing |
 
 The download method of sikubert and sikuroberta with new vocabulary has been updated: 
 
 | Model                                       | Link      |
 | :------------------------------------------ | :-------- |
-| sikubert_vocabtxt(Recommended download  )   | uploading |
-| sikuroberta_vocabtxt(Recommended download ) | uploading |
+| sikubert_vocabtxt(Recommended download  )   | https://drive.google.com/drive/folders/1uA7m54Cz7ZhNGxFM_DsQTpElb9Ns77R5?usp=sharing |
+| sikuroberta_vocabtxt(Recommended download ) | https://drive.google.com/drive/folders/1i0ldNODE1NC25Wzv0r7v1Thda8NscK3e?usp=sharing |
 
 ##  Evaluation & Results
 
