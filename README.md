@@ -154,6 +154,7 @@ model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
 ## 联系我们
 - Chang 649164915@qq.com
 - Joe zihe.zhu@qq.com
+- Liu veigar@stu.njau.edu.cn
 
 # English version 
 
@@ -226,7 +227,7 @@ model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
 
 ### From Google Drive
 
-If you are not in China, We put the model on Google drive for users to download, and we are working hard to upload it, please wait~
+If you are not in China, We put the model on Google drive for users to downloa.
 
 Old version download address: 
 
@@ -302,3 +303,4 @@ The download method of sikubert and sikuroberta with new vocabulary has been upd
 
 - Chang 649164915@qq.com
 - Joe zihe.zhu@qq.com
+- Liu veigar@stu.njau.edu.cn
