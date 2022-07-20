@@ -140,8 +140,8 @@ model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
 
 ## 引用
 - 如果我们的内容有助您研究工作，欢迎在论文中引用。
-- GB/T 7714-2015格式：[1]王东波,刘畅,朱子赫,刘江峰,胡昊天,沈思,李斌.SikuBERT与SikuRoBERTa：面向数字人文的《四库全书》预训练模型构建及应用研究[J/OL].图书馆论坛:1-14[2021-08-21].http://kns.cnki.net/kcms/detail/44.1306.G2.20210819.2052.008.html.
-
+- GB/T 7714-2015格式：
+[1]王东波, 刘畅, 朱子赫, 等. SikuBERT与SikuRoBERTa：面向数字人文的《四库全书》预训练模型构建及应用研究[J]. 图书馆论坛, 2022, 42(06): 31-43.
 
 ## 免责声明
 - 报告中所呈现的实验结果仅表明在特定数据集和超参组合下的表现，并不能代表各个模型的本质。实验结果可能因随机数种子，计算设备而发生改变。**使用者可以在许可证范围内任意使用该模型，但我们不对因使用该项目内容造成的直接或间接损失负责。**
@@ -286,8 +286,8 @@ The download method of sikubert and sikuroberta with new vocabulary has been upd
 ## Citing
 
 - If our content is helpful for your research work, please quote it in the paper. 
-- GB/T 7714-2015格式：[1]王东波,刘畅,朱子赫,刘江峰,胡昊天,沈思,李斌.SikuBERT与SikuRoBERTa：面向数字人文的《四库全书》预训练模型构建及应用研究[J/OL].图书馆论坛:1-14[2021-08-21].http://kns.cnki.net/kcms/detail/44.1306.G2.20210819.2052.008.html.
-
+- GB/T 7714-2015格式：
+[1]王东波, 刘畅, 朱子赫, 等. SikuBERT与SikuRoBERTa：面向数字人文的《四库全书》预训练模型构建及应用研究[J]. 图书馆论坛, 2022, 42(06): 31-43.
 
 ## Disclaim
 
