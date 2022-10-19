@@ -40,7 +40,7 @@
 - 2021/9/15 相关的python工具包sikufenci正式发布,可用于繁体古籍的自动分词，链接见https://github.com/SIKU-BERT/sikufenci
 - 2021/11/6 本项目相关的单机版开源软件sikuaip正式发布，提供包括分词，断句，实体识别，文本分类等多种古文处理功能，可直接下载解压使用。链接见下文。
 - 2021/12/10 基于本模型的第一个古汉语领域NLP工具评估比赛——**EvaHan 2022**发布，比赛详情见：https://circse.github.io/LT4HALA/2022/EvaHan
-- 2022 基于四库全书和Chinese-Poetry的古文、古诗词生成式预训练模型发布，详见：https://huggingface.co/JeffreyLau/SikuGPT2、https://huggingface.co/JeffreyLau/SikuGPT2-poem
+- 2022 基于四库全书和Chinese-Poetry的古文、古诗词生成式预训练模型发布，详见：https://huggingface.co/JeffreyLau/SikuGPT2        https://huggingface.co/JeffreyLau/SikuGPT2-poem
 
 ## 面向数字人文的古籍智能处理平台sikuaip1.0版本已正式发布
 
@@ -197,7 +197,7 @@ We designed four downstream tasks of automatic word segmentation, segmentation p
 - 2021/9/15 related python toolkit sikufenci is officially released, which can be used for automatic word segmentation of traditional ancient books, see https://github.com/SIKU-BERT/sikufenci for the link 
 - 2021/11/6 The stand-alone open source software sikuaip related to this project is officially released, providing various ancient text processing functions including word segmentation, sentence segmentation, entity recognition, text classification, etc., which can be downloaded and decompressed directly. See the link below. 
 - 2021/12/10 The first NLP tool evaluation competition in the field of ancient Chinese based on this model-**EvaHan 2022** is released. For details of the competition, please visit: https://circse.github.io/LT4HALA/2022/EvaHan 
-- 2022 The generative pre-training model of ancient Chinese and ancient Poetry based on the SiKu QuanShu and Chinese-poetry is published, as detailed in details：https://huggingface.co/JeffreyLau/SikuGPT2、https://huggingface.co/JeffreyLau/SikuGPT2-poem
+- 2022 The generative pre-training model of ancient Chinese and ancient Poetry based on the SiKu QuanShu and Chinese-poetry is published, as detailed in details：https://huggingface.co/JeffreyLau/SikuGPT2        https://huggingface.co/JeffreyLau/SikuGPT2-poem
 
 ## The sikuaip version 1.0 of the ancient book intelligent processing platform for digital humanities has been officially released
 
