@@ -41,6 +41,9 @@
 - 2021/11/6 本项目相关的单机版开源软件sikuaip正式发布，提供包括分词，断句，实体识别，文本分类等多种古文处理功能，可直接下载解压使用。链接见下文。
 - 2021/12/10 基于本模型的第一个古汉语领域NLP工具评估比赛——**EvaHan 2022**发布，比赛详情见：https://circse.github.io/LT4HALA/2022/EvaHan
 - 2022 基于四库全书和Chinese-Poetry的古文、古诗词生成式预训练模型发布，详见：https://huggingface.co/JeffreyLau/SikuGPT2        https://huggingface.co/JeffreyLau/SikuGPT2-poem
+- 2022/10/21
+    - 基于二十四史继续预训练的古文预训练语言模型TfhBERT发布，详见：https://huggingface.co/KM4STfulltext/TfhBERT
+    - 发布古白跨语言预训练模型BTfhBER，详见：https://huggingface.co/KM4STfulltext/BtfhBERT
 
 ## 面向数字人文的古籍智能处理平台sikuaip1.0版本已正式发布
 
