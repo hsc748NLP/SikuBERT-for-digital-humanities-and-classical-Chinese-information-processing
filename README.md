@@ -42,8 +42,8 @@
 - 2021/12/10 基于本模型的第一个古汉语领域NLP工具评估比赛——**EvaHan 2022**发布，比赛详情见：https://circse.github.io/LT4HALA/2022/EvaHan
 - 2022 基于四库全书和Chinese-Poetry的古文、古诗词生成式预训练模型发布，详见：https://huggingface.co/JeffreyLau/SikuGPT2        https://huggingface.co/JeffreyLau/SikuGPT2-poem
 - 2022/10/21
-    - 基于二十四史继续预训练的古文预训练语言模型TfhBERT发布，详见：https://huggingface.co/KM4STfulltext/TfhBERT
-    - 发布古白跨语言预训练模型BTfhBER，详见：https://huggingface.co/KM4STfulltext/BtfhBERT
+    - 基于二十四史继续预训练的古文预训练语言模型TfhBERT发布，详见：https://huggingface.co/hsc748NLP/TfhBERT
+    - 发布古白跨语言预训练模型BTfhBER，详见：https://huggingface.co/hsc748NLP/BtfhBERT
 
 ## 面向数字人文的古籍智能处理平台sikuaip1.0版本已正式发布
 
