@@ -58,7 +58,7 @@
 
 古诗词生成预训练模型 **SikuGPT2-poem**：https://huggingface.co/JeffreyLau/SikuGPT2-poem
 
-论文：**AIGC助力数字人文研究的实践探索：SikuGPT驱动的古诗词生成研究**：https://kns.cnki.net/kcms2/article/abstract?v=TOI_Fm_Rdm8eBCZ1VTFT9fh1wYC6KE0n6y8hzuUjIjd8qjnI4QGsr4RfaTVXHPKYJQwUKQ1BSXWepzHiqlBh2SN5qvSjWgTa1yab9Sy7kINBYg7M8HJcaQ==&uniplatform=NZKPT
+论文：**AIGC助力数字人文研究的实践探索：SikuGPT驱动的古诗词生成研究**：https://kns.cnki.net/kcms/detail/11.1762.G3.20230426.1046.002.html
 
 
 ## 使用方法
@@ -220,7 +220,7 @@ Please refer to the "How to use" folder for the usage of the platform. The curre
 
 **SikuGPT2-poem**:  https://huggingface.co/JeffreyLau/SikuGPT2-poem
 
-**A Practical Exploration ofAIGC-Powered Digital Humanities Research: A SikuGPT Driven Research of Ancient Poetry Generation**：https://kns.cnki.net/kcms2/article/abstract?v=TOI_Fm_Rdm8eBCZ1VTFT9fh1wYC6KE0n6y8hzuUjIjd8qjnI4QGsr4RfaTVXHPKYJQwUKQ1BSXWepzHiqlBh2SN5qvSjWgTa1yab9Sy7kINBYg7M8HJcaQ==&uniplatform=NZKPT
+**A Practical Exploration ofAIGC-Powered Digital Humanities Research: A SikuGPT Driven Research of Ancient Poetry Generation**：https://kns.cnki.net/kcms/detail/11.1762.G3.20230426.1046.002.html
 
 
 ##  How to use
