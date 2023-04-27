@@ -58,6 +58,8 @@
 
 古诗词生成预训练模型 **SikuGPT2-poem**：https://huggingface.co/JeffreyLau/SikuGPT2-poem
 
+论文：**AIGC助力数字人文研究的实践探索：SikuGPT驱动的古诗词生成研究**：https://kns.cnki.net/kcms2/article/abstract?v=TOI_Fm_Rdm8eBCZ1VTFT9fh1wYC6KE0n6y8hzuUjIjd8qjnI4QGsr4RfaTVXHPKYJQwUKQ1BSXWepzHiqlBh2SN5qvSjWgTa1yab9Sy7kINBYg7M8HJcaQ==&uniplatform=NZKPT
+
 
 ## 使用方法
 
@@ -161,6 +163,7 @@ model = AutoModel.from_pretrained("SIKU-BERT/sikuroberta")
 - 如果我们的内容有助您研究工作，欢迎在论文中引用。
 - GB/T 7714-2015格式：
   [1]王东波, 刘畅, 朱子赫, 等. SikuBERT与SikuRoBERTa：面向数字人文的《四库全书》预训练模型构建及应用研究[J]. 图书馆论坛, 2022, 42(06): 31-43.
+  [2]刘江峰,刘雏菲,齐月等.AIGC助力数字人文研究的实践探索：SikuGPT驱动的古诗词生成研究[J/OL].情报理论与实践:1-12[2023-04-27].http://kns.cnki.net/kcms/detail/11.1762.G3.20230426.1046.002.html.
 
 ## 免责声明
 
@@ -214,6 +217,8 @@ Please refer to the "How to use" folder for the usage of the platform. The curre
 **SikuGPT2**:  https://huggingface.co/JeffreyLau/SikuGPT2
 
 **SikuGPT2-poem**:  https://huggingface.co/JeffreyLau/SikuGPT2-poem
+
+**A Practical Exploration ofAIGC-Powered Digital Humanities Research: A SikuGPT Driven Research of Ancient Poetry Generation**：https://kns.cnki.net/kcms2/article/abstract?v=TOI_Fm_Rdm8eBCZ1VTFT9fh1wYC6KE0n6y8hzuUjIjd8qjnI4QGsr4RfaTVXHPKYJQwUKQ1BSXWepzHiqlBh2SN5qvSjWgTa1yab9Sy7kINBYg7M8HJcaQ==&uniplatform=NZKPT
 
 
 ##  How to use
@@ -317,6 +322,7 @@ The download method of sikubert and sikuroberta with new vocabulary has been upd
 - If our content is helpful for your research work, please quote it in the paper. 
 - GB/T 7714-2015格式：
   [1]王东波, 刘畅, 朱子赫, 等. SikuBERT与SikuRoBERTa：面向数字人文的《四库全书》预训练模型构建及应用研究[J]. 图书馆论坛, 2022, 42(06): 31-43.
+  [2]刘江峰,刘雏菲,齐月等.AIGC助力数字人文研究的实践探索：SikuGPT驱动的古诗词生成研究[J/OL].情报理论与实践:1-12[2023-04-27].http://kns.cnki.net/kcms/detail/11.1762.G3.20230426.1046.002.html.
 
 ## Disclaim
 
