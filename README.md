@@ -44,7 +44,10 @@
 - 2022/10/21
     - 基于二十四史继续预训练的古文预训练语言模型TfhBERT发布，详见：https://huggingface.co/hsc748NLP/TfhBERT
     - 发布古白跨语言预训练模型BTfhBER，详见：https://huggingface.co/hsc748NLP/BtfhBERT
-
+- 2023/7
+    -"Guji"系列模型于2023年中国情报学年会和比特人文公众号正式发布。新版"Guji"系列模型共包含3类9种预训练模型，适应古籍处理研究者不同的处理偏好。
+    -"Guji"系列模型下载地址和具体介绍详见：https://github.com/hsc748NLP/GujiBERT-and-GujiGPT, https://huggingface.co/hsc748NLP
+    
 ## 面向数字人文的古籍智能处理平台sikuaip1.0版本已正式发布
 
 下载链接:https://pan.baidu.com/s/1--S-qyUedIvhBKwapQjPsA
@@ -206,6 +209,12 @@ We designed four downstream tasks of automatic word segmentation, segmentation p
 - 2021/11/6 The stand-alone open source software sikuaip related to this project is officially released, providing various ancient text processing functions including word segmentation, sentence segmentation, entity recognition, text classification, etc., which can be downloaded and decompressed directly. See the link below. 
 - 2021/12/10 The first NLP tool evaluation competition in the field of ancient Chinese based on this model-**EvaHan 2022** is released. For details of the competition, please visit: https://circse.github.io/LT4HALA/2022/EvaHan 
 - 2022 The generative pre-training model of ancient Chinese and ancient Poetry based on the SiKu QuanShu and Chinese-poetry is published, as detailed in details：https://huggingface.co/JeffreyLau/SikuGPT2        https://huggingface.co/JeffreyLau/SikuGPT2-poem
+- 2022/10/21
+The TfhBERT, a classical text pretraining language model based on the Twenty-Four Histories, has been released. For more details, please refer to: https://huggingface.co/hsc748NLP/TfhBERT.
+The BTfhBER, a cross-lingual pretraining model for ancient texts, has been released. For more details, please refer to: https://huggingface.co/hsc748NLP/BtfhBERT.
+- 2023/7
+The "Guji" series models were officially released at the 2023 China Intelligence Conference and the Bitren(比特人文) WeChat Official Account. The new version of the "Guji" series models includes a total of 9 pretraining models in 3 categories, catering to the different processing preferences of researchers in ancient text studies.
+For the download links of the "Guji" series models, please refer to: https://github.com/hsc748NLP/GujiBERT-and-GujiGPT, https://huggingface.co/hsc748NLP.
 
 ## The sikuaip version 1.0 of the ancient book intelligent processing platform for digital humanities has been officially released
 
