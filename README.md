@@ -46,6 +46,7 @@
     - 发布古白跨语言预训练模型BTfhBER，详见：https://huggingface.co/hsc748NLP/BtfhBERT
 - 2023/7
     -"Guji"系列模型于2023年中国情报学年会和比特人文公众号正式发布。新版"Guji"系列模型共包含3类9种预训练模型，适应古籍处理研究者不同的处理偏好。
+  
     -"Guji"系列模型下载地址和具体介绍详见：https://github.com/hsc748NLP/GujiBERT-and-GujiGPT, https://huggingface.co/hsc748NLP
     
 ## 面向数字人文的古籍智能处理平台sikuaip1.0版本已正式发布
