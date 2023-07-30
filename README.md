@@ -338,6 +338,8 @@ The download method of sikubert and sikuroberta with new vocabulary has been upd
   
   [2]刘江峰, 刘雏菲, 齐月, 等. AIGC助力数字人文研究的实践探索：SikuGPT驱动的古诗词生成研究[J/OL]. 情报理论与实践: 1-12[2023-04-27]. http://kns.cnki.net/kcms/detail/11.1762.G3.20230426.1046.002.html.
 
+  [3] Wang D, Liu C, Zhao Z, et al. GujiBERT and GujiGPT: Construction of Intelligent Information Processing Foundation Language Models for Ancient Texts[J]. arXiv preprint arXiv:2307.05354, 2023.
+
 ## Disclaim
 
 - The experimental results presented in the report only show the performance under a specific data set and hyperparameter combination, and cannot represent the essence of each model. The experimental results may change due to random number seeds and computing equipment. **Users can use the model arbitrarily within the scope of the license, but we are not responsible for the direct or indirect losses caused by using the content of the project. ** 
